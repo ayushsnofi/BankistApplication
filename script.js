@@ -13,7 +13,7 @@ const tabsContent = document.querySelectorAll('.operations__content');
 
 ///////////////////////////////////////
 // Modal window
-
+console.log('Welcome to the Application');
 const openModal = function (e) {
   e.preventDefault();
   modal.classList.remove('hidden');
