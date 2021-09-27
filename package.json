@@ -1,0 +1,19 @@
+{
+  "name": "bankistapplication",
+  "version": "1.0.0",
+  "description": "Single page dyanamic mordern application (no backend included) ",
+  "Default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0"
+  }
+  
+}
