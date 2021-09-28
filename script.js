@@ -288,7 +288,7 @@ const nextSlide = function () {
 
   // 0% 100% 200% 300%
 };
-
+console.log('Welcome to Application');
 const prevslide = function () {
   if (curSlide === 0) {
     curSlide = maxSlide - 1;
